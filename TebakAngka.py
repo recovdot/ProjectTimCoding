@@ -15,4 +15,5 @@ inputAngka = input("Hayooo tebak Angkanya: ")
 if(inputAngka == f"{acak}"):
     print("KAMU BENAR, Selamat ya udah ga Jomblo lagi :P")
 else:
+    print(f"Kamu Harusnya Jawab Angka {acak}!!")
     print("Yahaha Salah, kasian Jomblo :P")
